@@ -1,4 +1,4 @@
-package com.reverseLetters;
+package com.onecommand;
 
 public class ReverseLetters {
 
