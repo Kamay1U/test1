@@ -91,6 +91,6 @@ class StringUtilTest {
 
         String result = StringUtil.reverseLetters(input);
 
-        assertEquals(output, result, "ТРУ");
+        assertEquals(output, result);
     }
 }
